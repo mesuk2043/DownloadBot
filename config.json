@@ -1,8 +1,8 @@
 {
     "aria2-server": "ws://127.0.0.1:6800/jsonrpc",
     "aria2-key": "xxxxxxxx",
-    "bot-key": "123456789:xxxxxxxxx",
-    "user-id": "123456789",
+    "bot-key": "5218813347:AAGMPoMQmOMkYqbiGonqBRT8CL0z9LMRjPc",
+    "user-id": "1287276743",
     "max-index": 10,
     "sign":"Main Aria2",
     "language":"en",
